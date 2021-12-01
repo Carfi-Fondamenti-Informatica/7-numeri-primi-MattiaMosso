@@ -9,4 +9,5 @@ bool ric (int i, int n){
     }else{
         return ric(i+1,n);
     }
+    
 }
